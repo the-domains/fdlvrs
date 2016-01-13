@@ -4,8 +4,15 @@
         <description><![CDATA[fdlvrs]]></description>
         <link>http://fdlvrs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 19:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 19:17:35 GMT</lastBuildDate>
         <atom:link href="http://fdlvrs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/ChZc1m31K8Q</p>]]></description>
+            <link>http://fdlvrs.com/httpsyoutubechzc1m31k8q/index.html</link>
+            <guid isPermaLink="false">4179669a-c16c-496d-872c-d2b00bb9bf86</guid>
+            <pubDate>Wed, 13 Jan 2016 19:17:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/ChZc1m31K8Q" frameborder="0" allowfullscreen></iframe>]]></title>
             <description><![CDATA[<article><h1><iframe width="560" height="315" src="https://www.youtube.com/embed/ChZc1m31K8Q" frameborder="0" allowfullscreen></iframe></h1><p>Video</p></article>]]></description>
