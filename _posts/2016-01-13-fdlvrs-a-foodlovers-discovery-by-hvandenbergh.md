@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T16:25:12.193Z'
-dateModified: '2016-01-13T16:24:47.885Z'
+datePublished: '2016-01-13T20:07:39.348Z'
+dateModified: '2016-01-13T20:07:36.751Z'
 title: "fdlvrs - a foodlover's discovery by @hvandenbergh"
 author: []
 authors: []
