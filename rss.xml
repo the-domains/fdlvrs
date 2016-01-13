@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fdlvrs]]></title>
+        <description><![CDATA[fdlvrs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 16:17:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Play Zak Abel Zak Abel - Say Sumthin 4 months ago4 months Zak Abel</p>]]></description>
+            <link>undefinedplay-zak-abel-zak-abel-say-sumthin-4-months-ago4-months-za/index.html</link>
+            <guid isPermaLink="false">430732c3-b99b-42d4-b774-a7de3ba097b1</guid>
+            <pubDate>Wed, 13 Jan 2016 16:16:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
