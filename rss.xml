@@ -4,7 +4,7 @@
         <description><![CDATA[fdlvrs]]></description>
         <link>http://fdlvrs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 20:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 20:08:05 GMT</lastBuildDate>
         <atom:link href="http://fdlvrs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[fdlvrs - a foodlover's discovery by @hvandenbergh]]></title>
@@ -26,13 +26,6 @@
             <link>http://fdlvrs.com/6fe6d993-211a-4d77-8524-b9bbf76b564b/index.html</link>
             <guid isPermaLink="false">6fe6d993-211a-4d77-8524-b9bbf76b564b</guid>
             <pubDate>Wed, 13 Jan 2016 19:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://www.youtube.com/watch?v=ChZc1m31K8Q</p>]]></description>
-            <link>http://fdlvrs.com/c18280e2-f817-4c5b-8c50-29d84f225663/index.html</link>
-            <guid isPermaLink="false">c18280e2-f817-4c5b-8c50-29d84f225663</guid>
-            <pubDate>Wed, 13 Jan 2016 19:08:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
