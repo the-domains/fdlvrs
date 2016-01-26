@@ -4,7 +4,7 @@
         <description><![CDATA[fdlvrs]]></description>
         <link>http://fdlvrs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 21:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 18:51:04 GMT</lastBuildDate>
         <atom:link href="http://fdlvrs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[fdlvrs - a foodlover's discovery by @hvandenbergh]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 13 Jan 2016 20:07:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Playlist]]></title>
+            <description><![CDATA[<article><h1>Playlist</h1><p>Connecting to the iTunes Store.</p></article>]]></description>
+            <link>http://fdlvrs.com/playlist/index.html</link>
+            <guid isPermaLink="false">42692d5d-9cac-45c3-9468-9c7f21d7f025</guid>
+            <pubDate>Tue, 26 Jan 2016 18:50:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oliver Heldens - Apple Music]]></title>
-            <description><![CDATA[<article><h1>Oliver Heldens - Apple Music</h1><p>Out now!! 😀🎉</p><img src="http://is5.mzstatic.com/image/thumb/Music69/v4/48/28/bb/4828bbf0-347c-2ea4-285c-746d8072b9cf/source/1200x630bf.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Oliver Heldens - Apple Music</h1><p>Out now!! 😀🎉</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ea4bcc643f3214af60f359de3a5ba3bf87386e9.jpg"></article>]]></description>
             <link>https://itunes.apple.com/nl/post/idsa.8c7b5858-c101-11e5-b3bd-1eb0f3a652bf?l=en</link>
             <guid isPermaLink="false">e1028bf3-0ae6-4d21-9890-0bccf8dc60dd</guid>
             <pubDate>Mon, 25 Jan 2016 21:40:29 GMT</pubDate>
